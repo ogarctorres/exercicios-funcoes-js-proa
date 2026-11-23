@@ -17,8 +17,4 @@ Repositório com a resolução dos 10 exercícios práticos sobre funções em J
 | 9 | Desconto | `calcularDesconto(preco, percentual)` | [`exercicios/ex09-desconto.js`](exercicios/ex09-desconto.js) |
 | 10 | Maioridade | `verificarIdade(idade)` | [`exercicios/ex10-maioridade.js`](exercicios/ex10-maioridade.js) |
 
-## Como executar
 
-1. Abra o arquivo `index.html` diretamente no navegador.
-2. (Opcional) Pressione `F12` e abra a aba **Console** para visualizar os logs nativos.
-3. Clique em **Executar** no exercício desejado e preencha os valores solicitados no `prompt()`.
